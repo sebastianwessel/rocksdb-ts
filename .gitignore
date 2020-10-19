@@ -5,6 +5,9 @@ build/
 build-pre-gyp/
 Release/
 deps/*/Debug/
+deps/emscripten/*
+deps/rocksdb/rocksdb/*
+typescript-napi-template/*
 libleveldb.so
 libleveldb.a
 leakydb

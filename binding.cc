@@ -1,4 +1,5 @@
 #include <napi-macros.h>
+#include <node.h>
 #include <node_api.h>
 // #include <assert.h>
 

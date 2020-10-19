@@ -4,3 +4,12 @@
 [submodule "deps/easyloggingpp/easyloggingpp"]
 	path = deps/easyloggingpp/easyloggingpp
 	url = https://github.com/zuhd-org/easyloggingpp.git
+[submodule "deps/easyloggingpp/easyloggingpp"]
+	path = deps/easyloggingpp/easyloggingpp
+	url = https://github.com/zuhd-org/easyloggingpp.git
+[submodule "deps/emscripten"]
+  path = deps/emscripten
+  url = https://github.com/emscripten-core/emscripten.git
+[submodule "typescript-napi-template"]
+  path = typescript-napi-template
+  url = https://github.com/kuyoonjo/typescript-napi-template.git
