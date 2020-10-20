@@ -80,5 +80,5 @@
   "engines": {
     "node": ">=14.11.0"
   },
-  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
+  "publishConfig": { "registry": "https://npmjs.com/" }
 }
