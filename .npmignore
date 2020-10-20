@@ -15,6 +15,8 @@ deps/rocksdb/rocksdb/tools/*.dmp
 deps/rocksdb/rocksdb/tools/rdb/
 deps/rocksdb/rocksdb/README.md
 deps/rocksdb/rocksdb/HISTORY.md
+deps/emscripten/
+typescript-napi-template/
 
 deps/snappy/snappy*/testdata/
 deps/snappy/snappy*/*.txt

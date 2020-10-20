@@ -18,8 +18,7 @@
     "prebuild": "prebuildify -t 14.11.0 --napi --strip",
     "download-prebuilds": "prebuildify-ci download",
     "hallmark": "hallmark --fix",
-    "dependency-check": "dependency-check . test/*.js",
-    "prepublishOnly": "npm run dependency-check"
+    "dependency-check": "dependency-check . test/*.js"
   },
   "dependencies": {
     "@types/node": "^14.11.10",
@@ -72,9 +71,14 @@
   "homepage": "https://github.com/sebastianwessel/rocksdb-ts",
   "keywords": [
     "leveldb",
-    "level"
+    "level",
+    "rocksdb",
+    "key-value",
+    "database",
+    "embedded"
   ],
   "engines": {
-    "node": ">=8.6.0"
-  }
+    "node": ">=14.11.0"
+  },
+  "publishConfig": { "registry": "https://npm.pkg.github.com/" }
 }
