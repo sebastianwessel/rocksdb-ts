@@ -1,6 +1,6 @@
 {
   "name": "@sebastianwessel/rocksdb-ts",
-  "version": "1.0.0",
+  "version": "17.0.0",
   "description": "Fork of rocksdb-ts A low-level Node.js RocksDB binding",
   "license": "MIT",
   "main": "dist/main.js",
